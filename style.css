@@ -1,0 +1,28 @@
+#logo {
+    max-width: 19%;
+    max-height: 9%;
+    position: relative;
+    left: 20%;
+    float: left;
+}
+.nav {
+    font-size: 20px;
+    margin: 0px 20px 0px 20px;
+    position: relative;
+    float: left;
+}
+#nav_bar {
+    position: relative;
+    left: 20%;
+    top: 90px;
+}
+.social_media {
+    max-width: 40px;
+    max-height: 40px;
+}
+#media {
+    position: relative;
+    left: 20%;
+    top: 5px;
+}
+
